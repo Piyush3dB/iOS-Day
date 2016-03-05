@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "26A72F2906106EBF622B886582CDDDDB6153571B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "464A96475914C671ACF6D421F1AB67320D27347C" : 0,
+    "26A72F2906106EBF622B886582CDDDDB6153571B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "18ABE9F9-C930-47BB-8284-E7C7D79ECB82",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "464A96475914C671ACF6D421F1AB67320D27347C" : "",
+    "26A72F2906106EBF622B886582CDDDDB6153571B" : "xylophone\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Xylophone",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Xylophone.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/londonappbrewery\/xylophone.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "26A72F2906106EBF622B886582CDDDDB6153571B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Piyush3dB\/iOS-Day.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "464A96475914C671ACF6D421F1AB67320D27347C"
+    }
+  ]
+}
